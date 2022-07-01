@@ -57,7 +57,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/softlayer/softlayer-go v1.0.4
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/tdewolff/minify/v2 v2.10.0
 	github.com/transip/gotransip/v6 v6.14.0
 	github.com/urfave/cli/v2 v2.3.0
